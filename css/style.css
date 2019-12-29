@@ -29,7 +29,7 @@ header {
   /* 103px -(24px-11px)/2 = 96px */
   margin-bottom: 96px;
 }
-
+/* decor */
 .link {
   text-decoration: none;
   color: inherit;
@@ -98,6 +98,8 @@ header {
   margin-bottom: 70px;
 }
 
+/* navigation positioning */
+
 .nav-list {
   display: flex;
   justify-content: center;
@@ -117,6 +119,7 @@ header {
   margin-right: 94px;
 }
 
+/* content positioning */
 .content-list {
   display: flex;
   flex-wrap: wrap;
