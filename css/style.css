@@ -100,8 +100,9 @@ header {
 
 .nav-list {
   display: flex;
-  margin-left: 165px;
-  margin-right: 165px;
+  justify-content: center;
+  /* margin-left: 165px;
+  margin-right: 165px; */
 }
 
 .nav-list .element:nth-child(1) {
