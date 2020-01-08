@@ -101,7 +101,7 @@ header {
 }
 
 .button:hover,
-.button:focus{
+.button:focus {
   color: rgb(3, 169, 244);
   border: 1px solid rgb(3, 169, 244);
 }
@@ -155,5 +155,5 @@ header {
 .content-list .element:nth-last-child(-n + 2) {
   /* margin-bottom: 0;
   /* 57px - (24px - 11px)/2 = 50px  */
-  margin-bottom: 50px; */
+  margin-bottom: 50px;
 }
